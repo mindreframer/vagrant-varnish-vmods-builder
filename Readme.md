@@ -93,3 +93,8 @@
     # get the list of installed VMODs
     $ ls -la /usr/local/lib/varnish/vmods
 
+    $ varnishd -V
+    varnishd (varnish-3.0.4 revision 9f83e8f)
+    Copyright (c) 2006 Verdens Gang AS
+    Copyright (c) 2006-2011 Varnish Software AS
+
