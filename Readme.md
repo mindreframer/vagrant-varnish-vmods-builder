@@ -5,6 +5,7 @@
   This script will create a Debian/Ubuntu package for [Varnish Cache Server](https://www.varnish-cache.org/) with many VMODs compiled in.
 
   The tasty stuff is in [varnish_installer.rb](https://github.com/mindreframer/vagrant-varnish-vmods-builder/blob/master/sh/varnish_installer.rb) - script. It will generate a rather lengthy bash script with all the necessary steps to:
+
     - install dependencies,
     - download sources,
     - configure them,
