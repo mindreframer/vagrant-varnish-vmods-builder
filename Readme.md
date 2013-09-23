@@ -21,3 +21,4 @@
     $ sh/update-plugins
 
     $ vagrant up box1
+    $ vagrant ssh box1 -c "sudo /vagrant/sh/install-varnish.sh"
